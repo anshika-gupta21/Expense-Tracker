@@ -8,7 +8,7 @@ The Expense Tracker is a simple web application that allows users to track their
 - Automatically calculate and display the total balance
 - Save transaction data in local storage
 
-##Technologies used
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
